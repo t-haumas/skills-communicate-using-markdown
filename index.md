@@ -18,3 +18,8 @@ public static void main(String[] args) {
 }
 
 ```
+
+A task list:
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
