@@ -4,3 +4,6 @@
 ###### H6
 And finally,
 normal text.
+
+## A minecraft image:
+![Image of Minecraft Mending Book](https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/55/Enchanted_Book.gif/revision/latest?cb=20200428014446)
